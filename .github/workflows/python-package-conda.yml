@@ -20,7 +20,7 @@ jobs:
         echo $CONDA/bin >> $GITHUB_PATH
     - name: Install dependencies
       run: |
-        conda create --name env
+        conda create --yes --name env python=3.8
         conda activate env
         conda install --yes --file requirements.txt
     - name: Test with streamlit
