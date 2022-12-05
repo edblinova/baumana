@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from secrets import choice
 import streamlit as st
 import pandas as pd
