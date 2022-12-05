@@ -13,4 +13,3 @@ seaborn
 mpl-toolkits.clifford
 ipywidgets
 ipython
-secrets
