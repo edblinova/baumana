@@ -3,6 +3,7 @@ streamlit
 pandas
 numpy
 pandas-profiling
+streamlit_pandas_profiling 
 sklearn
 xgboost
 scikitplot
@@ -12,3 +13,4 @@ seaborn
 mpl_toolkits
 ipywidgets
 IPython
+secrets
