@@ -10,7 +10,7 @@ scikit-plot
 shap
 matplotlib
 seaborn
-mpl_toolkits
+mpl-toolkits.clifford
 ipywidgets
-IPython
+ipython
 secrets
