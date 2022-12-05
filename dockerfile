@@ -20,7 +20,7 @@ RUN yum install -y oracle-epel-release-el9 && \
 COPY requirements.txt /app/requirements.txt
 
 RUN python3 --version
-RUN pip install -r requirments.txt
+RUN pip install -r /app/requirements.txt
 
 COPY . .
 
