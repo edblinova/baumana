@@ -4,7 +4,7 @@ pandas
 numpy
 pandas-profiling
 streamlit_pandas_profiling 
-sklearn
+scikit-learn
 xgboost
 scikit-plot
 shap
