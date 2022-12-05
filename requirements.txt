@@ -6,7 +6,7 @@ pandas-profiling
 streamlit_pandas_profiling 
 sklearn
 xgboost
-scikitplot
+scikit-plot
 shap
 matplotlib
 seaborn
