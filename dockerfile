@@ -17,7 +17,7 @@ RUN yum install -y oracle-epel-release-el9 && \
     python3 -m pip install cx_Oracle setuptools pyOpenSSL && \
     rm -rf /var/cache/yum
 
-COPY requirments.txt
+COPY requirements.txt /app/requirements.txt
 
 RUN python3 --version
 RUN pip install -r requirments.txt
